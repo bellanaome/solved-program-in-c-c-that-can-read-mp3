@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program-in-c-c-that-can-read-mp3
+<br>
+Write a program in C/C++ that can read mp3 files from somewhere on your computer, and display the time elapsed of the song, and time remaining. I think the ID3 tags or metadata of the mp3 file must be read in order to get the necessary information from the mp3 file. Please look into that. Please print the time elapsed of the song, and time remaining. The printed values should also be updating as the song is playing, to show the correct numbers
